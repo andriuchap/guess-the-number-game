@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess the Number</string>
+    <string name="format_turns">Turns left: %d</string>
+    <string name="format_guess_range">Enter a number between %d and %d</string>
+    <string name="format_result_high">%d is too high.</string>
+    <string name="format_result_low">%d is too low.</string>
+    <string name="btn_guess">Guess</string>
+    <string name="win_msg">Win!</string>
+    <string name="lose_msg">Lose!</string>
+    <string name="number">The number was %d</string>
+</resources>
